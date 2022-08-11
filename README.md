@@ -1,8 +1,8 @@
-# ZAID VC PLAYER
+# LILY VC BOT
 
 ### ᴢᴀɪᴅ ᴠᴄ ᴘʟᴀʏᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/Superior_Bots"><img src="https://telegra.ph/file/c4e036012053c3eb85e80.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/LilyXDMusic"><img src="https://telegra.ph//file/fadf1a9b3ac409ecc7726.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
@@ -14,7 +14,7 @@
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.8+ or 3.7
-- [PyTgCallss](https://github.com/ITZ-ZAID/calls)
+- [PyTgCallss](https://github.com/MANASRANJANOP/calls)
 
 #
 
